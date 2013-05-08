@@ -1,0 +1,11 @@
+{
+	"name": "app",
+	"version": "0.0.0",
+	"description": "",
+	"main": "app.coffee",
+	"devDependencies": {
+		"restify": "",
+		"rethinkdb": "",
+		"coffee-script": ""
+	}
+}
